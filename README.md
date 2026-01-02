@@ -6,26 +6,21 @@
   <a href="https://www.linkedin.com/in/carlos-alejandro-bolivar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://linktr.ee/labestiaenlacueva" target="_blank"><img src="https://img.shields.io/badge/Linktree-1a1a1a?style=flat-square&logo=linktree&logoColor=white" alt="Linktree"/></a><img src="https://komarev.com/ghpvc/?username=kbtale&color=blue&style=flat-square&label=Views" alt="Profile Views" />
 </div>
 
----
-
 ### Who am I?
 
-I am a Full Stack Developer combining technical expertise in software engineering with a strategic perspective from my studies in Business Administration. My focus lies in creating robust software solutions while managing the underlying IT infrastructure.
+Hey! I’m Carlos, a developer based in Venezuela. I build web and mobile apps, but I’m really obsessed with **automation** and connecting systems. If there's a way to make a workflow more efficient, I’ll usually find it.
 
-* **Software Development:** Web, Mobile, and Desktop applications with a focus on Automation and No-Code.
-* **IT Infrastructure:** Experienced in Networking, Cybersecurity, Microsoft 365, and Database Management.
-* **Education:** Currently pursuing dual degrees in Systems Engineering and Business Administration.
-* **Content Creation:** I run an educational project with over 60k followers, blending storytelling with technical discipline.
+I design software, manage servers, and I'm currently finishing my studies in Systems Engineering and Business Admin. When I'm not coding, I run a history & science community with over 60k followers.
 
----
+* **Building:** Web, Mobile, and Desktop apps (and lots of No-Code integrations).
+* **Managing:** IT Infrastructure, Networking, and Databases.
+* **Creating:** Educational content about storytelling and science.
 
 ### Core Tech Stack
 
 <div align="center">
   <img height="45" src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,python,django,flutter,firebase,gcp,docker,git,mysql,postgres" />
 </div>
-
----
 
 ### Code Analytics
 
