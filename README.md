@@ -29,7 +29,7 @@ I am a **Full Stack Developer** focused on efficiency. I specialize in building 
 
 ---
 
-### 🛠️ Core Tech Stack
+### Core Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,django,flutter" />
