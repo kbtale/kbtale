@@ -7,14 +7,14 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=kbtale&color=blue&style=flat-square&label=Views" alt="Profile Views" />
 </div>
-<h3>Hey there, I'm Carlos!</h3>
+<h3>Hey, I'm Carlos!</h3>
 A developer based in Latin America. I build web, desktop and mobile apps, but I'm also really obsessed with automation and connecting systems. If there's a way to make a workflow more efficient, I'll usually find it.
 
 I design software, manage servers, and I'm currently finishing my studies in Systems Engineering and Business Admin. When I'm not coding, I run a history & science community with over 60k followers.
 
 * **Building:** Web, Mobile, and Desktop apps (and lots of No-Code integrations).
 * **Managing:** IT Infrastructure, Networking, and Databases.
-* **Creating:** Educational content about storytelling and science.
+* **Creating:** Educational content about books and science.
 
 <h3>Core Tech Stack</h3>
 
