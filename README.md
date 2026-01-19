@@ -20,8 +20,8 @@ I design software, manage servers, and I'm currently finishing my studies in Sys
 
 <img height="40" src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,python,django,flutter,firebase,gcp,docker,git,mysql,postgres" />
 
-<h3>Code Analytics</h3>
-
+<div align="center">
+<h2>Code Analytics</h2>
 <a href="https://github.com/kbtale">
   <img height="190" src="https://github-readme-stats-bice-mu-80.vercel.app/api/top-langs/?username=kbtale&layout=compact&theme=cobalt&hide_border=true&langs_count=10&custom_title=By%20Code%20Size" alt="By Code Size"/>
 </a>
@@ -31,3 +31,4 @@ I design software, manage servers, and I'm currently finishing my studies in Sys
 <a href="https://github.com/kbtale">
   <img height="190" src="https://github-readme-stats-bice-mu-80.vercel.app/api?username=kbtale&theme=cobalt&hide_border=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
 </a>
+</div>
