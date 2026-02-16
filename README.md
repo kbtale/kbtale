@@ -12,13 +12,33 @@ A developer based in Latin America. I build web, desktop and mobile apps, but I'
 
 I design software, manage servers, and I'm currently finishing my studies in Systems Engineering and Business Admin. When I'm not coding, I run a history & science community with over 60k followers.
 
-* **Building:** Web, Mobile, and Desktop apps (and lots of No-Code integrations).
+* **Building:** Web, Mobile, Desktop apps, Extensions, and Libraries.
 * **Managing:** IT Infrastructure, Networking, and Databases.
-* **Creating:** Educational content about books and science.
 
-<h3>Core Tech Stack</h3>
+<h3>Tech Stack</h3>
 
-<img height="40" src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,python,django,flutter,firebase,gcp,docker,git,mysql,postgres" />
+<table>
+  <tr>
+    <td align="left"><b>Programming Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,py,php,js,ts" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Web & Markup</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Frontend & Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,threejs,flutter" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Backend & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,laravel,nestjs,django,mysql,postgres,firebase,supabase,gcp,aws,docker" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,githubactions" /></td>
+  </tr>
+</table>
 
 <div align="center">
 <h2>Code Analytics</h2>
