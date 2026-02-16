@@ -19,16 +19,12 @@ I design software, manage servers, and I'm currently finishing my studies in Sys
 
 <table>
   <tr>
-    <td align="left"><b>Programming Languages</b></td>
+    <td align="left"><b>Languages</b></td>
     <td><img src="https://skillicons.dev/icons?i=c,py,php,js,ts" /></td>
   </tr>
   <tr>
-    <td align="left"><b>Web & Markup</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css" /></td>
-  </tr>
-  <tr>
     <td align="left"><b>Frontend & Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,threejs,flutter" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs,tailwind,threejs,flutter" /></td>
   </tr>
   <tr>
     <td align="left"><b>Backend & Cloud</b></td>
