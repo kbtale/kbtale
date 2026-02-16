@@ -15,7 +15,7 @@ I design software, manage servers, and I'm currently finishing my studies in Sys
 * **Building:** Web, Mobile, Desktop apps, Extensions, and Libraries.
 * **Managing:** IT Infrastructure, Networking, and Databases.
 
-<h3>Tech Stack</h3>
+<h3>Skills</h3>
 
 <table>
   <tr>
