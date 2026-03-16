@@ -10,7 +10,7 @@
 <h3>Hey, I'm Carlos!</h3>
 A developer based in Latin America. I build web, desktop and mobile apps, but I'm also really obsessed with automation and connecting systems. If there's a way to make a workflow more efficient, I'll usually find it.
 
-I design software, manage servers, and I'm currently finishing my studies in Systems Engineering and Business Admin. When I'm not coding, I run a history & science community with over 60k followers.
+I design software, manage servers, and I'm currently finishing my studies in Systems Engineering and Business Admin. When I'm not coding, I run a history & science community with over 70k followers.
 
 * **Building:** Web, Mobile, Desktop apps, Extensions, and Libraries.
 * **Managing:** IT Infrastructure, Networking, and Databases.
@@ -28,7 +28,7 @@ I design software, manage servers, and I'm currently finishing my studies in Sys
   </tr>
   <tr>
     <td align="left"><b>Backend & Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,laravel,nestjs,django,mysql,postgres,firebase,supabase,gcp,aws,docker" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,laravel,nestjs,django,mysql,postgres,firebase,supabase,gcp,azure,docker" /></td>
   </tr>
   <tr>
     <td align="left"><b>Tools</b></td>
