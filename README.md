@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=kbtale&color=blue&style=flat-square&label=Views" alt="Profile Views" />
 </div>
 <h3>Hey, I'm Carlos!</h3>
-A developer based in Latin America. I build web, desktop and mobile apps, but I'm also really obsessed with automation and connecting systems. If there's a way to make a workflow more efficient, I'll usually find it.
+A developer based in Latin America with +6 years of experience. I build web, desktop and (from time to time) mobile apps, but I'm also really obsessed with automation and connecting systems. If there's a way to make a workflow more efficient, I'll usually find it.
 
 I design software, manage servers, and I'm currently finishing my studies in Systems Engineering and Business Admin. When I'm not coding, I run a history & science community with over 70k followers.
 
