@@ -39,9 +39,9 @@ I design software, manage servers, and I'm currently finishing my studies in Sys
 <div align="center">
 <h2>My Repo Analytics</h2>
 <a href="https://github.com/kbtale">
-  <img height="190" src="https://github-readme-stats-czaq7kky6-kbtales-projects.vercel.app/top-langs/?username=kbtale&layout=compact&theme=cobalt&hide_border=true&langs_count=10&custom_title=By%20Code%20Size" alt="By Code Size"/>
+  <img height="190" src="https://github-readme-stats-bice-mu-80.vercel.app/top-langs/?username=kbtale&layout=compact&theme=cobalt&hide_border=true&langs_count=10&custom_title=By%20Code%20Size" alt="By Code Size"/>
 </a>
 <a href="https://github.com/kbtale">
-  <img height="190" src="https://github-readme-stats-czaq7kky6-kbtales-projects.vercel.app/top-langs/?username=kbtale&layout=compact&theme=cobalt&hide_border=true&size_weight=0&count_weight=1&langs_count=10&custom_title=By%20Repo%20Count" alt="By Repo Count"/>
+  <img height="190" src="https://github-readme-stats-bice-mu-80.vercel.app/top-langs/?username=kbtale&layout=compact&theme=cobalt&hide_border=true&size_weight=0&count_weight=1&langs_count=10&custom_title=By%20Repo%20Count" alt="By Repo Count"/>
 </a>
 </div>
